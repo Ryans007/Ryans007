@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Data Science **
 
 - 📫 How to reach me **ryansoaresjorvino@gmail.com**
 
