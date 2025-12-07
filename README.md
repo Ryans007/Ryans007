@@ -66,18 +66,11 @@
   </a>
 </p>
 
-<h2 align="center">
-  GitHub Status
-</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryans007&theme=react&line_height=40&hide=Jupyter%20Notebook,SystemVerilog"/>
-      </td>
-      <td>
-        <img height="200px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryans007&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryans007">
+    <img alt="Ryan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ryans007&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=151515&title_color=34abeb&icon_color=34abeb" height="180px"/>
+  </a>
+  <a href="https://github.com/ryans007">
+    <img alt="Ryan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ryans007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=34abeb&icon_color=34abeb&hide=Jupyter%20Notebook,SystemVerilog" height="180px"/>
+  </a>
 </div>
